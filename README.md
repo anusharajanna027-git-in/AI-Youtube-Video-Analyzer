@@ -1,5 +1,5 @@
 # 🎥 AI YouTube Video Analyzer (Agentic AI)
-# Live Demo: https://ai-youtube-video-analyzer-3e88n6jijpgwxwcfgcat4o.streamlit.app
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-FE424D?style=for-the-badge&logo=render&logoColor=white)](https://ai-youtube-video-analyzer-3e88n6jijpgwxwcfgcat4o.streamlit.app/)
 
 ## 📌 Overview
 
